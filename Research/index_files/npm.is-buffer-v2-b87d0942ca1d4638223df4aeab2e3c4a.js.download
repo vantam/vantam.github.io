@@ -1,0 +1,2 @@
+/*! For license information please see npm.is-buffer-v2-b87d0942ca1d4638223df4aeab2e3c4a.js.LICENSE.txt */
+(self.webpackChunksketchfab=self.webpackChunksketchfab||[]).push([[5999],{v4SR:t=>{function n(t){return!!t.constructor&&"function"==typeof t.constructor.isBuffer&&t.constructor.isBuffer(t)}t.exports=function(t){return null!=t&&(n(t)||function(t){return"function"==typeof t.readFloatLE&&"function"==typeof t.slice&&n(t.slice(0,0))}(t)||!!t._isBuffer)}}}]);
